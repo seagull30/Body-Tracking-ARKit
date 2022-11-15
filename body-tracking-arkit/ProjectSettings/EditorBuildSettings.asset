@@ -9,5 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/HumanBodyTracking3D.unity
     guid: 9fc1f5ed98d414310a8b9e659c295d7c
   m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 1b9ca2123dc7d5b4daa823d1c3715113,
+      type: 2}
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b5e9d0b418af96e498bcac9e89ff0971,
       type: 2}
